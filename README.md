@@ -14,9 +14,9 @@ We also hope that the OpenMIIR dataset will facilitate a stronger interdisciplin
 This git repository does not contain the raw EEG data, which is around 700 MB per subject adding up to several gigabytes in total. There are currently two ways to obtain the data:
 
 1. download via http from one of the sites listed below:
-	- [TODO University of Western Ontario](<http://www.owenlab.uwo.ca/>)
+	- [University of Western Ontario](<http://bmi.ssc.uwo.ca/OpenMIIR-RawEEG_v1/>)
 
-2. download via bittorrent tracked by [academic torrents](<http://academictorrents.com/TODO>)
+2. download via bittorrent tracked by [academic torrents](<http://academictorrents.com/details/c18c04a9f18ff7d133421012978c4a92f57f6b9c>)
 
 We strongly encorage the second approach as it allows for distributed sharing.
 
