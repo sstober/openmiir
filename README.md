@@ -57,9 +57,18 @@ If you use the OpenMIIR dataset in published research work, we would appreciate 
 
 Furthermore, we would like to keep a list of labs using this dataset and of related publications in the repository wiki. Please contact us, if you would like to be added.
 
+## Acknowledgments
+
+This dataset is a result of ongoing joint work between the [Owen Lab](<http://www.owenlab.uwo.ca/>) and the [Music and Neuroscience Lab](<http://www.jessicagrahn.com/>) at the [Brain and Mind Institute](<http://www.uwo.ca/bmi/>) of the [University of Western Ontario](<http://www.uwo.ca/>).
+It has been supported by a fellowship within the Postdoc-Program of the German Academic Exchange Service (DAAD), the Canada Excellence Research Chairs (CERC) Program, an National Sciences and Engineering Research Council (NSERC) Discovery Grant and an Ontario Early Researcher Award.
+
+
 ## Contact
 
 Sebastian Stober \<sstober AT uwo DOT ca\>  
 The Brain and Mind Institute  
 University of Western Ontario  
 London, Ontario, Canada  N6A 5B7  
+
+
+[http://www.owenlab.uwo.ca/](<http://www.owenlab.uwo.ca/>)  
