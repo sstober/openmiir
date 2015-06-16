@@ -1,4 +1,4 @@
-# OpenMIIR - a public domain dataset of EEG recordings of music imagination and perception
+# OpenMIIR - a public domain dataset of EEG recordings of music perception and imagination
 
 Music imagery information retrieval (MIIR) systems may one day be able to recognize a song just as we think of it.
 As a step towards such technology, we are presenting a public domain dataset of electroencephalography (EEG) recordings taken during music perception and imagination.
@@ -60,9 +60,6 @@ Furthermore, we would like to keep a list of labs using this dataset and of rela
 ## Contact
 
 Sebastian Stober \<sstober AT uwo DOT ca\>
-
 The Brain and Mind Institute
-
 University of Western Ontario
-
 London, Ontario, Canada  N6A 5B7
