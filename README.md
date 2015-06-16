@@ -59,7 +59,7 @@ Furthermore, we would like to keep a list of labs using this dataset and of rela
 
 ## Contact
 
-Sebastian Stober \<sstober AT uwo DOT ca\>
-The Brain and Mind Institute
-University of Western Ontario
-London, Ontario, Canada  N6A 5B7
+Sebastian Stober \<sstober AT uwo DOT ca\>  
+The Brain and Mind Institute  
+University of Western Ontario  
+London, Ontario, Canada  N6A 5B7  
