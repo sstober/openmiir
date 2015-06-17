@@ -25,7 +25,7 @@ We strongly encorage the second approach as it allows for distributed sharing.
 
 In order to enable everybody to work with this data, we decided to share it in a format that does not require any commercial software for loading and processing. Specifically, the raw EEG is saved in the FIF file format used by [MNE](<http://martinos.org/mne/>) and [MNE-Python](<http://martinos.org/mne/stable/mne-python.html>). 
 
-This data format can, for instance, also be easily converted into the MAT format used by Matlab, which allows importing into EEGLab. A description on how to do this can be found [here](<TODO>).
+This data format can, for instance, also be easily converted into the MAT format used by Matlab, which allows importing into EEGLab. A description on how to do this can be found [in the wiki](<https://github.com/sstober/openmiir/wiki/How-to-import-the-raw-EEG-data-into-EEGLab>).
 
 For further processing, we provide custom dataset implementations and deep learning pipelines for [pylearn2](<https://github.com/lisa-lab/pylearn2>) within the [deepthought](<https://github.com/sstober/deepthought>) project. 
 
