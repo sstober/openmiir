@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/sstober/openmiir/tree/master/logo/OpenMIIR-logo_transparent_728x265.png)
+![OpenMIIR: a public domain dataset of EEG recordings for music imagery information retrieval](https://github.com/sstober/openmiir/tree/master/logo/OpenMIIR-logo_transparent_728x265.png?raw=true)
 
 Music imagery information retrieval (MIIR) systems may one day be able to recognize a song just as we think of it.
 As a step towards such technology, we are presenting a public domain dataset of electroencephalography (EEG) recordings taken during music perception and imagination.
