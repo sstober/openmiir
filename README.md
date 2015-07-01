@@ -1,4 +1,4 @@
-# OpenMIIR - a public domain dataset of EEG recordings of music perception and imagination
+![Image Alt](https://github.com/sstober/openmiir/tree/master/logo/OpenMIIR-logo_transparent_728x265.png)
 
 Music imagery information retrieval (MIIR) systems may one day be able to recognize a song just as we think of it.
 As a step towards such technology, we are presenting a public domain dataset of electroencephalography (EEG) recordings taken during music perception and imagination.
@@ -53,7 +53,8 @@ If you want to contribute, please contact us.
 OpenMIIR is released under the [Open Data Commons Public Domain Dedication and Licence (PDDL)](<http://opendatacommons.org/licenses/pddl/1-0/>), which means that you can freely use it without any restrictions.
 
 If you use the OpenMIIR dataset in published research work, we would appreciate if you would cite this article: 
-(currently under review until July 2015, please contact us if you already require a citable reference)
+Sebastian Stober, Avital Sternin, Adrian M. Owen and Jessica A. Grahn: "Towards Music Imagery Information Retrieval: Introducing the OpenMIIR Dataset of EEG Recordings from Music Perception and Imagination." In: Proceedings of the 16th International Society for Music Information Retrieval Conference (ISMIR’15), 2015. 
+(to appear)
 
 Furthermore, we would like to keep a list of labs using this dataset and of related publications in the repository wiki. Please contact us, if you would like to be added.
 
@@ -72,4 +73,5 @@ University of Western Ontario
 London, Ontario, Canada  N6A 5B7  
 
 
-[http://www.owenlab.uwo.ca/](<http://www.owenlab.uwo.ca/>)  
+[http://www.owenlab.uwo.ca/](<http://www.owenlab.uwo.ca/>)
+[http://www.jessicagrahn.com/](<http://www.jessicagrahn.com/>)
