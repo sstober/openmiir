@@ -33,8 +33,8 @@ For further processing, we provide custom dataset implementations and deep learn
 
 ## More Information
 
-Links to published papers will be added soon.
 A first presentation about this dataset was given at [NEMISIG 2015](<http://jimi.ithaca.edu/nemisig/>) and can be downloaded [here](<http://bib.sebastianstober.de/2015-01-31_NEMISIG.pdf>).
+Furthermore, there is information about [labs using this dataset](<https://github.com/sstober/openmiir/wiki/Labs-using-this-Dataset>) and [related publications](<https://github.com/sstober/openmiir/wiki/Related-Publications>) in the [repository wiki](<https://github.com/sstober/openmiir/wiki>). Please contact us, if you would like to be added.
 
 
 ## Contributing
@@ -54,10 +54,7 @@ If you want to contribute, please contact us.
 OpenMIIR is released under the [Open Data Commons Public Domain Dedication and Licence (PDDL)](<http://opendatacommons.org/licenses/pddl/1-0/>), which means that you can freely use it without any restrictions.
 
 If you use the OpenMIIR dataset in published research work, we would appreciate if you would cite this article: 
-Sebastian Stober, Avital Sternin, Adrian M. Owen and Jessica A. Grahn: "Towards Music Imagery Information Retrieval: Introducing the OpenMIIR Dataset of EEG Recordings from Music Perception and Imagination." In: Proceedings of the 16th International Society for Music Information Retrieval Conference (ISMIR’15), 2015. 
-(to appear)
-
-Furthermore, we would like to keep a list of labs using this dataset and of related publications in the repository wiki. Please contact us, if you would like to be added.
+Sebastian Stober, Avital Sternin, Adrian M. Owen and Jessica A. Grahn: **"Towards Music Imagery Information Retrieval: Introducing the OpenMIIR Dataset of EEG Recordings from Music Perception and Imagination."** In: Proceedings of the 16th International Society for Music Information Retrieval Conference (ISMIR’15), pages 763-769, 2015. 
 
 
 ## Acknowledgments
@@ -68,11 +65,12 @@ It has been supported by a fellowship within the Postdoc-Program of the German A
 
 ## Contact
 
-Sebastian Stober \<sstober AT uwo DOT ca\>  
-The Brain and Mind Institute  
-University of Western Ontario  
-London, Ontario, Canada  N6A 5B7  
+Sebastian Stober \<sstober AT uni-potsdam DOT de\>  
+Machine Learning in Cognitive Science Lab  
+Research Focus Cognitive Sciences  
+University of Potsdam, Germany  
 
 
 [http://www.owenlab.uwo.ca/](<http://www.owenlab.uwo.ca/>)  
-[http://www.jessicagrahn.com/](<http://www.jessicagrahn.com/>)
+[http://www.jessicagrahn.com/](<http://www.jessicagrahn.com/>)  
+[http://www.uni-potsdam.de/mlcog/](<http://www.uni-potsdam.de/mlcog/>)  
